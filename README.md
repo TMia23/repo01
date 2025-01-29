@@ -1,2 +1,2 @@
-# repo01
+# myprofile
 Welcome to the coding summer school
